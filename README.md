@@ -10,7 +10,7 @@ Pia Wetzel
 # Installation
 
 Install WAMP (Windows) or XAMPP onto your machine
-Clone or Download our repository from https://github.com/oh-no-a-porcupine/DVD_rental
+Clone or Download our repository from https://github.com/oh-no-a-porcupine/CPSC-349-Project-1
 Place DVD_rental into your existing www directory
 Create a Database named project1_1 and navigate to it
 Use project1_1.sql to initialize the database
