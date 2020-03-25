@@ -1,13 +1,13 @@
 # CPSC-349-Project-1
 Project 1 for CPSC 349
 
-# Blockbluster - A DVD Rental Website
+Blockbluster - A DVD Rental Website
 
-# Group Members:
+Group Members:
 Pia Wetzel
 
 
-# Installation
+Installation
 
 Install WAMP (Windows) or XAMPP onto your machine
 Clone or Download our repository from https://github.com/oh-no-a-porcupine/DVD_rental
@@ -17,38 +17,37 @@ Use project1_1.sql to initialize the database
 Optional: Modify username/password parameters inside sql_connect.php to connect to the database
 
 
-# User Manual
+User Manual
 
-# About Site
+About Site
 Blockbluster is a video rental application, users can search for movies by their titles and can either choose to rent them or to instead read/write reviews.
 	
-# Home
+Home
 Default page of the site, use the navigation bar to reach other pages
 
-# Navigation Bar
+Navigation Bar
 - 3 Tabs available, Home, About Us, and Search, clicking a tab takes you to that page
 - Manual covers areas that are extensions from Search.
 
-# Search
+Search
 - On any page click the Search tab on the navigation bar to go to search.php
 - On search.php input a title (full or partial) into the input field added to the navigation bar
 - Click search to search matching titles in the database
 - Database returns movies that match titles and output is listed
 
 
-
-# Movie Details
+Movie Details
 - Search for a movie via the search bar
 - Click on any movie returned by the search request to see movie details such as reviews, ratings, and rent/review options
 
-# Rent
+Rent
  - Search for a movie via the search bar
  - Click on any movie returned by the search request to see movie details 
  - Click the “Rent DVD” button on the right side of the movie details page
  - You are redirected to a page assisting you with the checkout process
  - Enter your shipping and payment information and confirm by clicking the “Pay now!” button    
 
-# Review
+Review
  - Search for a movie via the search bar
  - Click on any movie returned by search request to see movie details 
  - Click “Review Movie” button on the right side of the movie details page
