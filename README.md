@@ -7,7 +7,7 @@ Group Members:
 Pia Wetzel
 
 
-Installation
+# Installation
 
 Install WAMP (Windows) or XAMPP onto your machine
 Clone or Download our repository from https://github.com/oh-no-a-porcupine/DVD_rental
@@ -17,7 +17,7 @@ Use project1_1.sql to initialize the database
 Optional: Modify username/password parameters inside sql_connect.php to connect to the database
 
 
-User Manual
+# User Manual
 
 About Site
 Blockbluster is a video rental application, users can search for movies by their titles and can either choose to rent them or to instead read/write reviews.
