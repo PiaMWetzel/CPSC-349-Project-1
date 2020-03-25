@@ -4,6 +4,7 @@ Project 1 for CPSC 349
 Blockbluster - A DVD Rental Website
 
 Group Members:
+Emanuel Carmona
 Pia Wetzel
 
 
